@@ -1,6 +1,7 @@
 # PDF Delivery Note to Excel
 
-納品書PDFを読み込み、Excel・CSVへ出力するPythonツールです。
+Pythonで納品書PDFを解析し
+Excel・CSVへの出力と商品別集計を行うツールです。
 
 ## 機能
 
